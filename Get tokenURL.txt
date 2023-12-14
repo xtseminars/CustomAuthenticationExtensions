@@ -1,0 +1,7 @@
+[Replace with authorize endpoint]?
+client_id=[Replace with Application (client) ID]&
+response_type=id_token&
+redirect_uri=https://jwt.ms&
+scope=openid&
+state=12345&
+nonce=12345
