@@ -1,5 +1,6 @@
 //Demo code for custom authentication extensions
 //Use with pipedream
+//This code should only be used for demo purposes and should not be treated as reliable code
 export default defineComponent({
     async run({ steps, $ }) {
     //const headers = {'Content-Type': 'application/json',}
