@@ -16,7 +16,7 @@ export default defineComponent({
               correlationId: steps.trigger.event.body.data.authenticationContext.correlationId,
               apiVersion: '1.0.0',
               dateOfBirth: '01/01/2000',
-              customRoles: ['Writer', 'Reader'],
+              customRoles: [NewYear2024, 'Writer', 'Reader'],
               upn: steps.trigger.event.body.data.authenticationContext.user.userPrincipalName,
             },
           },
